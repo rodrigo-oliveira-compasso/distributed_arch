@@ -1,0 +1,1 @@
+concurrently "cd host && npm start" "cd home && npm start" "cd user && npm start"
